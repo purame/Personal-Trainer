@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.top {
+    background-image: url(../img/top.jpg);
+    background-size: cover;
+}
